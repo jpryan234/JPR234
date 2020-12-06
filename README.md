@@ -1,2 +1,2 @@
 # JPR234
-Landing Page
+Home Page
